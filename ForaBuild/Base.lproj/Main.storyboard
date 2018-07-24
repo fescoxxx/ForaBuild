@@ -450,7 +450,7 @@
             </objects>
             <point key="canvasLocation" x="1174" y="1958"/>
         </scene>
-        <!--Item-->
+        <!--View Controller-->
         <scene sceneID="whK-ey-yfa">
             <objects>
                 <viewController id="jks-uM-j7P" sceneMemberID="viewController">
@@ -854,7 +854,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="IOt-Zp-woE"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item" image="pay logo off" selectedImage="pay logo on" id="tmV-u1-tMH"/>
+                    <tabBarItem key="tabBarItem" title="" image="pay logo off" selectedImage="pay logo on" id="tmV-u1-tMH"/>
                     <size key="freeformSize" width="375" height="2000"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="UKp-zU-eD8" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -924,7 +924,8 @@
                         <segue destination="sM3-rk-jKU" kind="relationship" relationship="viewControllers" id="wdj-IR-g42"/>
                         <segue destination="Kk8-DU-9jd" kind="relationship" relationship="viewControllers" id="BYE-IR-Nhm"/>
                         <segue destination="jks-uM-j7P" kind="relationship" relationship="viewControllers" id="oRQ-60-ObD"/>
-                        <segue destination="XSB-6O-P9S" kind="relationship" relationship="viewControllers" id="8tn-6K-bqO"/>
+                        <segue destination="QjP-Am-2yT" kind="relationship" relationship="viewControllers" id="Dta-Us-rmG"/>
+                        <segue destination="XSB-6O-P9S" kind="relationship" relationship="viewControllers" id="7uY-oJ-LIm"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="euv-JR-4ro" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -1715,7 +1716,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="UrP-cb-kAO"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="" image="fora logo off" selectedImage="logo on" id="H27-IC-I22"/>
+                    <tabBarItem key="tabBarItem" title="" image="fora logo off" selectedImage="Отделение_банка" id="H27-IC-I22"/>
                     <size key="freeformSize" width="375" height="3500"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="uAA-lA-fQP" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -2176,7 +2177,8 @@
         <image name="страховка" width="16" height="19"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="8tn-6K-bqO"/>
+        <segue reference="7uY-oJ-LIm"/>
         <segue reference="tPN-Kw-p9w"/>
+        <segue reference="Dta-Us-rmG"/>
     </inferredMetricsTieBreakers>
 </document>
