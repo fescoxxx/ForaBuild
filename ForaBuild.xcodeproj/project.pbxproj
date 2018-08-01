@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C58E9FD2111A1DE00EC717D /* OffersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C58E9FC2111A1DE00EC717D /* OffersViewController.swift */; };
+		2C9AB23621098D8600D36764 /* LoginOffTapeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9AB23521098D8600D36764 /* LoginOffTapeViewController.swift */; };
+		2C9AB2382109909E00D36764 /* RegistrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9AB2372109909E00D36764 /* RegistrationViewController.swift */; };
+		2CF77E3A210EFACD00B9664C /* LoginOnPayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF77E39210EFACD00B9664C /* LoginOnPayViewController.swift */; };
+		2CFE32D82109E19400CEF3E7 /* LoginOnTapeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFE32D72109E19400CEF3E7 /* LoginOnTapeViewController.swift */; };
 		84142E5320FEE38500C29E7D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84142E5220FEE38500C29E7D /* AppDelegate.swift */; };
 		84142E5520FEE38600C29E7D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84142E5420FEE38600C29E7D /* ViewController.swift */; };
 		84142E5820FEE38600C29E7D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84142E5620FEE38600C29E7D /* Main.storyboard */; };
@@ -34,6 +39,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2C58E9FC2111A1DE00EC717D /* OffersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffersViewController.swift; sourceTree = "<group>"; };
+		2C9AB23521098D8600D36764 /* LoginOffTapeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginOffTapeViewController.swift; sourceTree = "<group>"; };
+		2C9AB2372109909E00D36764 /* RegistrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationViewController.swift; sourceTree = "<group>"; };
+		2CF77E39210EFACD00B9664C /* LoginOnPayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginOnPayViewController.swift; sourceTree = "<group>"; };
+		2CFE32D72109E19400CEF3E7 /* LoginOnTapeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginOnTapeViewController.swift; sourceTree = "<group>"; };
 		84142E4F20FEE38500C29E7D /* ForaBuild.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ForaBuild.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84142E5220FEE38500C29E7D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84142E5420FEE38600C29E7D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -74,6 +84,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2C58E9FB2111A1A900EC717D /* LoginOff */ = {
+			isa = PBXGroup;
+			children = (
+				2C58E9FC2111A1DE00EC717D /* OffersViewController.swift */,
+			);
+			path = LoginOff;
+			sourceTree = "<group>";
+		};
 		84142E4620FEE38500C29E7D = {
 			isa = PBXGroup;
 			children = (
@@ -97,12 +115,17 @@
 		84142E5120FEE38500C29E7D /* ForaBuild */ = {
 			isa = PBXGroup;
 			children = (
+				2C58E9FB2111A1A900EC717D /* LoginOff */,
 				84142E5220FEE38500C29E7D /* AppDelegate.swift */,
 				84142E5420FEE38600C29E7D /* ViewController.swift */,
 				84142E5620FEE38600C29E7D /* Main.storyboard */,
 				84142E5920FEE38900C29E7D /* Assets.xcassets */,
 				84142E5B20FEE38900C29E7D /* LaunchScreen.storyboard */,
 				84142E5E20FEE38900C29E7D /* Info.plist */,
+				2C9AB23521098D8600D36764 /* LoginOffTapeViewController.swift */,
+				2C9AB2372109909E00D36764 /* RegistrationViewController.swift */,
+				2CFE32D72109E19400CEF3E7 /* LoginOnTapeViewController.swift */,
+				2CF77E39210EFACD00B9664C /* LoginOnPayViewController.swift */,
 			);
 			path = ForaBuild;
 			sourceTree = "<group>";
@@ -257,6 +280,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				84142E5520FEE38600C29E7D /* ViewController.swift in Sources */,
+				2C9AB23621098D8600D36764 /* LoginOffTapeViewController.swift in Sources */,
+				2CF77E3A210EFACD00B9664C /* LoginOnPayViewController.swift in Sources */,
+				2C9AB2382109909E00D36764 /* RegistrationViewController.swift in Sources */,
+				2CFE32D82109E19400CEF3E7 /* LoginOnTapeViewController.swift in Sources */,
+				2C58E9FD2111A1DE00EC717D /* OffersViewController.swift in Sources */,
 				84142E5320FEE38500C29E7D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
