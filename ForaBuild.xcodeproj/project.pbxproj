@@ -7,11 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C2372B3213512A100DE2C15 /* SusesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2372B2213512A100DE2C15 /* SusesViewController.swift */; };
+		2C2CAF492116E7DA0038E310 /* CoutntListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2CAF482116E7DA0038E310 /* CoutntListViewController.swift */; };
+		2C2CAF4B211705BB0038E310 /* StitisticsFloatingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2CAF4A211705BB0038E310 /* StitisticsFloatingViewController.swift */; };
 		2C58E9FD2111A1DE00EC717D /* OffersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C58E9FC2111A1DE00EC717D /* OffersViewController.swift */; };
+		2C97408F21284B3E0033A3CC /* StatistiscBubleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C97408E21284B3E0033A3CC /* StatistiscBubleViewController.swift */; };
+		2C9740A221284D600033A3CC /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9740A121284D600033A3CC /* Extensions.swift */; };
 		2C9AB23621098D8600D36764 /* LoginOffTapeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9AB23521098D8600D36764 /* LoginOffTapeViewController.swift */; };
 		2C9AB2382109909E00D36764 /* RegistrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9AB2372109909E00D36764 /* RegistrationViewController.swift */; };
+		2CBF8CC92112C5180038CE8C /* StatisticPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CBF8CC82112C5180038CE8C /* StatisticPageViewController.swift */; };
+		2CBF8CCB21132F7A0038CE8C /* CardInnerPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CBF8CCA21132F7A0038CE8C /* CardInnerPageViewController.swift */; };
 		2CF77E3A210EFACD00B9664C /* LoginOnPayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF77E39210EFACD00B9664C /* LoginOnPayViewController.swift */; };
 		2CFE32D82109E19400CEF3E7 /* LoginOnTapeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFE32D72109E19400CEF3E7 /* LoginOnTapeViewController.swift */; };
+		336B946ADE3F5B19201C5E42 /* Pods_ForaBuildTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38EB8F8DA5483BE87144235E /* Pods_ForaBuildTests.framework */; };
+		4D51F5CEF8D0952245162A17 /* Pods_ForaBuildUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 179DBA929DCDA127D16B1364 /* Pods_ForaBuildUITests.framework */; };
 		84142E5320FEE38500C29E7D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84142E5220FEE38500C29E7D /* AppDelegate.swift */; };
 		84142E5520FEE38600C29E7D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84142E5420FEE38600C29E7D /* ViewController.swift */; };
 		84142E5820FEE38600C29E7D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84142E5620FEE38600C29E7D /* Main.storyboard */; };
@@ -19,6 +28,7 @@
 		84142E5D20FEE38900C29E7D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84142E5B20FEE38900C29E7D /* LaunchScreen.storyboard */; };
 		84142E6820FEE38A00C29E7D /* ForaBuildTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84142E6720FEE38A00C29E7D /* ForaBuildTests.swift */; };
 		84142E7320FEE38A00C29E7D /* ForaBuildUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84142E7220FEE38A00C29E7D /* ForaBuildUITests.swift */; };
+		8F573FEEED01031CF56BEEC1 /* Pods_ForaBuild.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 39756FFF00AFC311CD74DB7A /* Pods_ForaBuild.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,11 +49,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		179DBA929DCDA127D16B1364 /* Pods_ForaBuildUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ForaBuildUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C2372B2213512A100DE2C15 /* SusesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SusesViewController.swift; sourceTree = "<group>"; };
+		2C2CAF482116E7DA0038E310 /* CoutntListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoutntListViewController.swift; sourceTree = "<group>"; };
+		2C2CAF4A211705BB0038E310 /* StitisticsFloatingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StitisticsFloatingViewController.swift; sourceTree = "<group>"; };
 		2C58E9FC2111A1DE00EC717D /* OffersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffersViewController.swift; sourceTree = "<group>"; };
+		2C97408E21284B3E0033A3CC /* StatistiscBubleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatistiscBubleViewController.swift; sourceTree = "<group>"; };
+		2C9740A121284D600033A3CC /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		2C9AB23521098D8600D36764 /* LoginOffTapeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginOffTapeViewController.swift; sourceTree = "<group>"; };
 		2C9AB2372109909E00D36764 /* RegistrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationViewController.swift; sourceTree = "<group>"; };
+		2CBF8CC82112C5180038CE8C /* StatisticPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticPageViewController.swift; sourceTree = "<group>"; };
+		2CBF8CCA21132F7A0038CE8C /* CardInnerPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardInnerPageViewController.swift; sourceTree = "<group>"; };
 		2CF77E39210EFACD00B9664C /* LoginOnPayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginOnPayViewController.swift; sourceTree = "<group>"; };
 		2CFE32D72109E19400CEF3E7 /* LoginOnTapeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginOnTapeViewController.swift; sourceTree = "<group>"; };
+		38EB8F8DA5483BE87144235E /* Pods_ForaBuildTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ForaBuildTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		39756FFF00AFC311CD74DB7A /* Pods_ForaBuild.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ForaBuild.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		84142E4F20FEE38500C29E7D /* ForaBuild.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ForaBuild.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84142E5220FEE38500C29E7D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84142E5420FEE38600C29E7D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +77,12 @@
 		84142E6E20FEE38A00C29E7D /* ForaBuildUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ForaBuildUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84142E7220FEE38A00C29E7D /* ForaBuildUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForaBuildUITests.swift; sourceTree = "<group>"; };
 		84142E7420FEE38A00C29E7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8583BC8FA01FD83326AC5CBB /* Pods-ForaBuild.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ForaBuild.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ForaBuild/Pods-ForaBuild.debug.xcconfig"; sourceTree = "<group>"; };
+		A4FA51A7F51DB87641888AC6 /* Pods-ForaBuildUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ForaBuildUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ForaBuildUITests/Pods-ForaBuildUITests.release.xcconfig"; sourceTree = "<group>"; };
+		B3BE2DFF426D63ECB8AEB196 /* Pods-ForaBuildTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ForaBuildTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ForaBuildTests/Pods-ForaBuildTests.release.xcconfig"; sourceTree = "<group>"; };
+		CE6EC0E48EE1B959FCEF5D69 /* Pods-ForaBuild.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ForaBuild.release.xcconfig"; path = "Pods/Target Support Files/Pods-ForaBuild/Pods-ForaBuild.release.xcconfig"; sourceTree = "<group>"; };
+		EEE3E30537C615B61ED7D81A /* Pods-ForaBuildTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ForaBuildTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ForaBuildTests/Pods-ForaBuildTests.debug.xcconfig"; sourceTree = "<group>"; };
+		F445EB2026B7D6BA50D1A7EC /* Pods-ForaBuildUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ForaBuildUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ForaBuildUITests/Pods-ForaBuildUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F573FEEED01031CF56BEEC1 /* Pods_ForaBuild.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -71,6 +98,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				336B946ADE3F5B19201C5E42 /* Pods_ForaBuildTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +106,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D51F5CEF8D0952245162A17 /* Pods_ForaBuildUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -92,6 +121,29 @@
 			path = LoginOff;
 			sourceTree = "<group>";
 		};
+		2CBF8CC72112C4C80038CE8C /* LoginOn */ = {
+			isa = PBXGroup;
+			children = (
+				2CBF8CC82112C5180038CE8C /* StatisticPageViewController.swift */,
+				2CBF8CCA21132F7A0038CE8C /* CardInnerPageViewController.swift */,
+				2C2CAF482116E7DA0038E310 /* CoutntListViewController.swift */,
+				2C2CAF4A211705BB0038E310 /* StitisticsFloatingViewController.swift */,
+				2C97408E21284B3E0033A3CC /* StatistiscBubleViewController.swift */,
+				2C2372B2213512A100DE2C15 /* SusesViewController.swift */,
+			);
+			path = LoginOn;
+			sourceTree = "<group>";
+		};
+		3FE4D4C3BB9DC2F37B156D0E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				39756FFF00AFC311CD74DB7A /* Pods_ForaBuild.framework */,
+				38EB8F8DA5483BE87144235E /* Pods_ForaBuildTests.framework */,
+				179DBA929DCDA127D16B1364 /* Pods_ForaBuildUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		84142E4620FEE38500C29E7D = {
 			isa = PBXGroup;
 			children = (
@@ -99,6 +151,8 @@
 				84142E6620FEE38A00C29E7D /* ForaBuildTests */,
 				84142E7120FEE38A00C29E7D /* ForaBuildUITests */,
 				84142E5020FEE38500C29E7D /* Products */,
+				CC58FE62A0390FB2DFE17E03 /* Pods */,
+				3FE4D4C3BB9DC2F37B156D0E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -115,6 +169,7 @@
 		84142E5120FEE38500C29E7D /* ForaBuild */ = {
 			isa = PBXGroup;
 			children = (
+				2CBF8CC72112C4C80038CE8C /* LoginOn */,
 				2C58E9FB2111A1A900EC717D /* LoginOff */,
 				84142E5220FEE38500C29E7D /* AppDelegate.swift */,
 				84142E5420FEE38600C29E7D /* ViewController.swift */,
@@ -126,6 +181,7 @@
 				2C9AB2372109909E00D36764 /* RegistrationViewController.swift */,
 				2CFE32D72109E19400CEF3E7 /* LoginOnTapeViewController.swift */,
 				2CF77E39210EFACD00B9664C /* LoginOnPayViewController.swift */,
+				2C9740A121284D600033A3CC /* Extensions.swift */,
 			);
 			path = ForaBuild;
 			sourceTree = "<group>";
@@ -148,6 +204,19 @@
 			path = ForaBuildUITests;
 			sourceTree = "<group>";
 		};
+		CC58FE62A0390FB2DFE17E03 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				8583BC8FA01FD83326AC5CBB /* Pods-ForaBuild.debug.xcconfig */,
+				CE6EC0E48EE1B959FCEF5D69 /* Pods-ForaBuild.release.xcconfig */,
+				EEE3E30537C615B61ED7D81A /* Pods-ForaBuildTests.debug.xcconfig */,
+				B3BE2DFF426D63ECB8AEB196 /* Pods-ForaBuildTests.release.xcconfig */,
+				F445EB2026B7D6BA50D1A7EC /* Pods-ForaBuildUITests.debug.xcconfig */,
+				A4FA51A7F51DB87641888AC6 /* Pods-ForaBuildUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -155,9 +224,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 84142E7720FEE38A00C29E7D /* Build configuration list for PBXNativeTarget "ForaBuild" */;
 			buildPhases = (
+				4EDEFCAEC1A4736B5E46E21F /* [CP] Check Pods Manifest.lock */,
 				84142E4B20FEE38500C29E7D /* Sources */,
 				84142E4C20FEE38500C29E7D /* Frameworks */,
 				84142E4D20FEE38500C29E7D /* Resources */,
+				673969643BD9D821FF421512 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -172,6 +243,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 84142E7A20FEE38A00C29E7D /* Build configuration list for PBXNativeTarget "ForaBuildTests" */;
 			buildPhases = (
+				E90793A28F1412892DE493F4 /* [CP] Check Pods Manifest.lock */,
 				84142E5F20FEE38A00C29E7D /* Sources */,
 				84142E6020FEE38A00C29E7D /* Frameworks */,
 				84142E6120FEE38A00C29E7D /* Resources */,
@@ -190,6 +262,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 84142E7D20FEE38A00C29E7D /* Build configuration list for PBXNativeTarget "ForaBuildUITests" */;
 			buildPhases = (
+				23E1D7C1B237ED2B18ADE8A9 /* [CP] Check Pods Manifest.lock */,
 				84142E6A20FEE38A00C29E7D /* Sources */,
 				84142E6B20FEE38A00C29E7D /* Frameworks */,
 				84142E6C20FEE38A00C29E7D /* Resources */,
@@ -274,18 +347,102 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		23E1D7C1B237ED2B18ADE8A9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ForaBuildUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4EDEFCAEC1A4736B5E46E21F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ForaBuild-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		673969643BD9D821FF421512 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-ForaBuild/Pods-ForaBuild-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Magnetic/Magnetic.framework",
+				"${BUILT_PRODUCTS_DIR}/SIFloatingCollection/SIFloatingCollection.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Magnetic.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SIFloatingCollection.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ForaBuild/Pods-ForaBuild-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E90793A28F1412892DE493F4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ForaBuildTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		84142E4B20FEE38500C29E7D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CBF8CC92112C5180038CE8C /* StatisticPageViewController.swift in Sources */,
 				84142E5520FEE38600C29E7D /* ViewController.swift in Sources */,
+				2C97408F21284B3E0033A3CC /* StatistiscBubleViewController.swift in Sources */,
 				2C9AB23621098D8600D36764 /* LoginOffTapeViewController.swift in Sources */,
 				2CF77E3A210EFACD00B9664C /* LoginOnPayViewController.swift in Sources */,
+				2CBF8CCB21132F7A0038CE8C /* CardInnerPageViewController.swift in Sources */,
+				2C2372B3213512A100DE2C15 /* SusesViewController.swift in Sources */,
 				2C9AB2382109909E00D36764 /* RegistrationViewController.swift in Sources */,
 				2CFE32D82109E19400CEF3E7 /* LoginOnTapeViewController.swift in Sources */,
+				2C9740A221284D600033A3CC /* Extensions.swift in Sources */,
 				2C58E9FD2111A1DE00EC717D /* OffersViewController.swift in Sources */,
+				2C2CAF4B211705BB0038E310 /* StitisticsFloatingViewController.swift in Sources */,
 				84142E5320FEE38500C29E7D /* AppDelegate.swift in Sources */,
+				2C2CAF492116E7DA0038E310 /* CoutntListViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -456,8 +613,10 @@
 		};
 		84142E7820FEE38A00C29E7D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8583BC8FA01FD83326AC5CBB /* Pods-ForaBuild.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 76CPM5B656;
 				INFOPLIST_FILE = ForaBuild/Info.plist;
@@ -467,6 +626,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Davydov.ForaBuild;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -474,8 +634,10 @@
 		};
 		84142E7920FEE38A00C29E7D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CE6EC0E48EE1B959FCEF5D69 /* Pods-ForaBuild.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 76CPM5B656;
 				INFOPLIST_FILE = ForaBuild/Info.plist;
@@ -485,6 +647,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Davydov.ForaBuild;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -492,6 +655,7 @@
 		};
 		84142E7B20FEE38A00C29E7D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EEE3E30537C615B61ED7D81A /* Pods-ForaBuildTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -513,6 +677,7 @@
 		};
 		84142E7C20FEE38A00C29E7D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B3BE2DFF426D63ECB8AEB196 /* Pods-ForaBuildTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -534,6 +699,7 @@
 		};
 		84142E7E20FEE38A00C29E7D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F445EB2026B7D6BA50D1A7EC /* Pods-ForaBuildUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -554,6 +720,7 @@
 		};
 		84142E7F20FEE38A00C29E7D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A4FA51A7F51DB87641888AC6 /* Pods-ForaBuildUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
